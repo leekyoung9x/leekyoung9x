@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 <br />
 
-<a align="center" href="https://app.daily.dev/bndung1"><img src="https://api.daily.dev/devcards/fe9abe03e665480689ee776c0c766186.png?r=tjy" width="400" alt="Bạch Ngọc Dũng's Dev Card"/></a>
+<a href="https://app.daily.dev/leekyoung9x"><img src="https://api.daily.dev/devcards/v2/Cz6YnBIYSfcjfj7u3S1bh.png?type=default&r=aii" width="356" alt="Trần Huy Tùng's Dev Card"/></a>
 
 ### My Portfolio: [HERE](https://portfoliobnd.web.app)
 
