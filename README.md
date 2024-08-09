@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, my name is Ngọc Dũng (bndz).
+## 👋 Hi there, my name is Huy Tùng (thtung).
 
 <div align="center">
  
