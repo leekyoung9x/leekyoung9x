@@ -1,6 +1,6 @@
 <!--
 
-**ngocdung/ngocdung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thtung/thtung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Thanks to: https://gprm.itsvg.in
 Here are some ideas to get you started:
 
