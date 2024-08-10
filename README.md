@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <div align="center">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leekyoung9x&theme=dark&hide_border=false)<br/>
-<a href="http://www.github.com/leekyoung9x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leekyoung9x&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/leekyoung9x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leekyoung9x&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 </div>
 
