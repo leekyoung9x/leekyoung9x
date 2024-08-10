@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=bndung&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=leekyoung9x&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
