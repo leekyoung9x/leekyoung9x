@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NODEJS, Docker and CI/CD 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:huytung55123@gmail.com?subject=Hello Trần Tùng">huytung55123@gmail.com</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1IrVa69mmTz_5XYYf1OI9vccOsog65wIH/view?usp=sharing">here</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1QYcSIFd3nKbc_cYHaGAV3SEhT2E2h2bU/view?usp=sharing">here</a>.
 
 
 
