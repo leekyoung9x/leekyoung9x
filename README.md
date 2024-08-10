@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekyoung9x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekyoung9x&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
