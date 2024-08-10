@@ -55,19 +55,19 @@ Here are some ideas to get you started:
 <div align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=leekyoung9x&theme=dark&hide_border=false)<br/>
-<a href="http://www.github.com/leekyoung9x"><img src="https://github-readme-stats.vercel.app/api?username=leekyoung9x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&show_icons=true" alt="leekyoung9x's GitHub stats" /></a>
  
 </div>
 
 <div align="center">
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leekyoung9x&theme=dark&hide_border=false)<br/>
+<a href="http://www.github.com/leekyoung9x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leekyoung9x&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekyoung9x&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekyoung9x&layout=compact&theme=dark&hide_border=false)
 
 </div>
 
